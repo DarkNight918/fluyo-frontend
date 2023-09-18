@@ -7,4 +7,5 @@ export interface QNADataType {
     answer: string;
     text: string;
   };
+  selections: string[];
 }
